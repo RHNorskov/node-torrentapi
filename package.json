@@ -1,6 +1,6 @@
 {
   "name": "torrentapi",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Node.js wrapper for RARBG's torrentapi",
   "main": "dist/index.js",
   "scripts": {
